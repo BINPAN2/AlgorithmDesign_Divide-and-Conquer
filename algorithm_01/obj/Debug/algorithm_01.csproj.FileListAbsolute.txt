@@ -1,0 +1,6 @@
+D:\VS Projects\algorithm_01\algorithm_01\bin\Debug\algorithm_01.exe
+D:\VS Projects\algorithm_01\algorithm_01\bin\Debug\algorithm_01.pdb
+D:\VS Projects\algorithm_01\algorithm_01\obj\Debug\algorithm_01.csprojResolveAssemblyReference.cache
+D:\VS Projects\algorithm_01\algorithm_01\obj\Debug\algorithm_01.csproj.CoreCompileInputs.cache
+D:\VS Projects\algorithm_01\algorithm_01\obj\Debug\algorithm_01.exe
+D:\VS Projects\algorithm_01\algorithm_01\obj\Debug\algorithm_01.pdb
